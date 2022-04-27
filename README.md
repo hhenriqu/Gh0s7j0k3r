@@ -3,7 +3,7 @@
 - 🔭 I’m currently working on Cyber Security.
 - 🔥 I’m currently learning Front-End, Back-end and others languages.
 
-<div align="justify">
+<div align="center">
   <href="https://github.com/Gh0s7j0k3r">
   <img height="170em" src="https://github-readme-stats.vercel.app/api?username=Gh0s7j0k3r&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gh0s7j0k3r&layout=compact&langs_count=8&theme=tokyonight"/>
@@ -16,8 +16,6 @@
   <img align="center" alt="Miguel-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Miguel-C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
   <img align="center" alt="Miguel-Bash" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg">
-  <img align="center" alt="Miguel-Linux" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
-  <img align="center" alt="Miguel-Azure" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg">
 </div>
   
 ##
