@@ -1,12 +1,12 @@
-### Hi there 👋 ### I'm Miguel! Nice to meet you!
+### Hi there 👋 I'm Miguel! Nice to meet you!
 
 - 🔭 I’m currently working on Cyber Security.
 - 🔥 I’m currently learning Front-End, Back-end and others languages.
 
 <div align="justify">
   <a href="https://github.com/Gh0s7j0k3r">
-  <img height="190em" src="https://github-readme-stats.vercel.app/api?username=Gh0s7j0k3r&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gh0s7j0k3r&layout=compact&langs_count=7&theme=tokyonight"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=Gh0s7j0k3r&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gh0s7j0k3r&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Miguel-PHP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
